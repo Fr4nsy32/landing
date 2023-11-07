@@ -4,17 +4,17 @@
   background-size: cover;
   padding: 200px 0;
   color: white;
-  position: relative;
-  /* display: flex;
+  /* position: relative; */
+  display: flex;
   justify-content: center;
-  align-items: center; */
+  align-items: center;
 }
 
 .banner h1{
   font-size: 55px;
-  position: absolute;
+  /* position: absolute;
   bottom: 280px;
-  left: 570px;
+  left: 570px; */
   text-shadow: 0 0 10px black;
   font-family: 'Style Script', cursive;
 }
