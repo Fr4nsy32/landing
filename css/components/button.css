@@ -1,0 +1,9 @@
+.btn-primary{
+  border: 2px solid purple;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background-color: purple;
+  color: white;
+  display: inline-block;
+  text-shadow: 0 0 10px black;
+}

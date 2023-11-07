@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+.banner{
+  background-size: cover;
+  padding: 200px 0;
+  color: white;
+  position: relative;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.banner h1{
+  font-size: 55px;
+  position: absolute;
+  bottom: 280px;
+  left: 570px;
+  text-shadow: 0 0 10px black;
+  font-family: 'Style Script', cursive;
+}
+
+.banner p{
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 0 0 10px black;
+}

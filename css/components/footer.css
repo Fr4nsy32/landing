@@ -1,0 +1,17 @@
+.footer{
+  background-color: rgba(128, 0, 128, 1);
+  padding: 60px;
+}
+
+.footer i{
+  color: white;
+  font-size: 30px;
+  margin: 10px;
+  text-shadow: 0 0 10px black;
+}
+
+.footer p{
+  font-size: large;
+  color: white;
+  text-shadow: 0 0 10px black;
+}
